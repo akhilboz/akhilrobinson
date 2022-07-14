@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilrobinson
-- 👀 I’m interested in Software Devolopig & Web Developmet
-- 🌱 I’m currently learning Python & Web Designing
+- 👀 I’m interested in Software Devolopment & Web Developmet
+- 🌱 I’m currently learning Python & Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
