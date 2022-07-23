@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhilrobinson
 - 👀 I’m interested in Software Devolopment & Web Developmet
-- 🌱 I’m currently learning Python & Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Python,Web Development & Game Development
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ...
 
 <!---
