@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akhilrobinson
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Game & Flutter Development
+- 👋 Hi, I’m Akhil R S
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me ...
 
